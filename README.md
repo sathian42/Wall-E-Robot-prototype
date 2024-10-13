@@ -4,7 +4,7 @@ walle.ino code for esp8266
 
 pin configuration are mentioned in program
 
-for this you need a remote controlling application that i give the project github rep link:
+for this you need a remote controlling application that i give the project github rep link: github.com/sathian42/Wall-E-robo-conroller
 
  if you need android project file changes you can hange it or else direck apk is available just install it
 
